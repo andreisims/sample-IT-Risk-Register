@@ -1,5 +1,10 @@
 # SOC2 IT Risk Register
 
+[![Framework: NIST CSF](https://img.shields.io/badge/Framework-NIST%20CSF-blue)](#)
+[![Compliance: SOC2](https://img.shields.io/badge/Compliance-SOC2-green)](#)
+[![Tool: Microsoft Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-orange)](#)
+[![Status: Educational](https://img.shields.io/badge/Status-Educational-lightgrey)](#)
+
 This repository contains a **sample IT Risk Register** created as part of a **Governance, Risk, and Compliance (GRC) home lab**.  
 It demonstrates how to identify, assess, and map IT and cloud infrastructure risks to **NIST Cybersecurity Framework (CSF)** and **SOC 2 Trust Services Criteria** — with cross-references to **NIST SP 800-53** and **ISO/IEC 27001** controls.
 
