@@ -8,7 +8,7 @@ It demonstrates how to identify, assess, and map IT and cloud infrastructure ris
 ## 📂 Contents
 | File | Description |
 |------|--------------|
-| **SOC2_Risk_Register_Sample(1)(1).xlsx** | Complete IT risk register (Excel format) with risks, controls, residual risk, and framework mappings. |
+| **SOC2_Risk_Register_Sample.xlsx** | Complete IT risk register (Excel format) with risks, controls, residual risk, and framework mappings. |
 | **Overview (Sheet)** | Explains scoring methodology and CSF informative references. |
 
 ---
