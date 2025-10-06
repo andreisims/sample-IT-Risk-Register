@@ -1,4 +1,4 @@
-# sample-IT-Risk-Register
+# SOC2 IT Risk Register
 
 This repository contains a **sample IT Risk Register** created as part of a **Governance, Risk, and Compliance (GRC) home lab**.  
 It demonstrates how to identify, assess, and map IT and cloud infrastructure risks to **NIST Cybersecurity Framework (CSF)** and **SOC 2 Trust Services Criteria** — with cross-references to **NIST SP 800-53** and **ISO/IEC 27001** controls.
